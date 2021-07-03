@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @hacamer
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-hacamer/hacamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, 我是 @hacamer
+~ 欢迎来到我的Github
+~ 这是我的[个人网站](hacamer.tk)
