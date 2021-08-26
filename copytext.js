@@ -5,6 +5,7 @@
 // @description  复制授权
 // @author       杏灵
 // @match        *://*/*
+// @match        *://*
 // @icon         https://i.loli.net/2021/03/30/ULV9XunaHesqGIR.png
 // @grant        GM_registerMenuCommand
 // @grant        GM_unregisterMenuCommand
